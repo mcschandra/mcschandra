@@ -13,7 +13,7 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 - 🔭 Working on: **Multi Cloud Environment**
 - 🌍 Languages: **Python, Bash script, Terraform**
 - 📫 How to reach me: **mcschandra2263@gmail.com**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **i love marvel movies**
 
 ## My Skills 🧠
 
