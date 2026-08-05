@@ -3,11 +3,11 @@
 
 # Hi there, I'm Chandra Sekhar Mupparaju! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://static.vecteezy.com/system/resources/previews/011/166/144/large_2x/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg)
 
 ## About Me 🚀
 
-I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, Linux**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, Linux, CI/CD**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Kubernetes**
 - 🔭 Working on: **Multi Cloud Environment**
@@ -17,11 +17,19 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 ## My Skills 🧠
 
+<<<<<<< HEAD
 ![Linux](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![AWS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Azure](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Terraform()
 ![DevOps](image url)
+=======
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square&logo=azuredevops&logoColor=white)
+>>>>>>> 7a9a258fad857d147e19a0b715549a480e15c976
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
