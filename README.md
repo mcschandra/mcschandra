@@ -39,7 +39,7 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**Whatsapp-BulkMessage-Automation** is a **automated messaging script** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **Python**. You can check out the repository [here](project_1_repository_link).
+**Whatsapp-BulkMessage-Automation** is a **automated messaging tool to send customized reminder messages to customers via whatsapp web** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **write Python scripts, automation and excel formulas**. You can check out the repository [here](https://github.com/mcschandra/Mini-Projects.git).
 
 ### [Project 2 Title](project_2_link)
 
@@ -49,8 +49,8 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**https://www.mcschandra.github.io/mcschandra
-- **[LinkedIn]**https://www.linkedin.com/in/chandra-sekhar-mupparaju
+- **[Personal Website / Blog]** https://www.mcschandra.github.io/mcschandra
+- **[LinkedIn]** https://www.linkedin.com/in/chandra-sekhar-mupparaju
 
 
 
