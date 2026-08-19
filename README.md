@@ -31,15 +31,15 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square&logo=azuredevops&logoColor=white)
 >>>>>>> 7a9a258fad857d147e19a0b715549a480e15c976
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Whatsapp-BulkMessage-Automation([Project_Repo](https://github.com/mcschandra/Mini-Projects.git))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Whatsapp-BulkMessage-Automation** is a **automated messaging script** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **Python**. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
