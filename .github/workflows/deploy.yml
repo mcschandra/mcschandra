@@ -27,7 +27,7 @@ jobs:
           chmod 600 ~/.ssh/ec2_key
           ssh-keyscan -H "$EC2_HOST" >> ~/.ssh/known_hosts
 
-      - name: Sync site to Nginx
+      - name: Sync site to Apache2
         env:
           EC2_HOST: ${{ secrets.EC2_HOST }}
           EC2_USER: ${{ secrets.EC2_USER }}
@@ -35,5 +35,6 @@ jobs:
           rsync -az --delete \
             --exclude '.git/' \
             --exclude '.github/' \
+            --rsync-path='sudo rsync' \
             -e 'ssh -i ~/.ssh/ec2_key -o IdentitiesOnly=yes' \
             ./ "$EC2_USER@$EC2_HOST:/var/www/html/"
