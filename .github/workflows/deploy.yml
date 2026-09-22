@@ -27,6 +27,14 @@ jobs:
           chmod 600 ~/.ssh/ec2_key
           ssh-keyscan -H "$EC2_HOST" >> ~/.ssh/known_hosts
 
+      - name: Install and start Apache2
+        env:
+          EC2_HOST: ${{ secrets.EC2_HOST }}
+          EC2_USER: ${{ secrets.EC2_USER }}
+        run: |
+          ssh -i ~/.ssh/ec2_key -o IdentitiesOnly=yes -o BatchMode=yes "$EC2_USER@$EC2_HOST" \
+            'sudo -n true && sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y apache2 rsync && sudo systemctl enable --now apache2 && sudo install -d -m 755 /var/www/html'
+
       - name: Sync site to Apache2
         env:
           EC2_HOST: ${{ secrets.EC2_HOST }}
