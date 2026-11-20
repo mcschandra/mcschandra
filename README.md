@@ -27,15 +27,28 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 ### Whatsapp-BulkMessage-Automation([Project_Repo](https://github.com/mcschandra/Mini-Projects.git))
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
 **Whatsapp-BulkMessage-Automation** is a **automated messaging tool to send customized reminder messages to customers via whatsapp web** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **write Python scripts, automation and excel formulas**. You can check out the repository [here](https://github.com/mcschandra/Mini-Projects.git).
 
-### [Project 2 Title](project_2_link)
+### StockBill([project_2_link](https://github.com/mcschandra/Stockbill))
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**StockBill** is a ** full-stack inventory and billing application for small retail businesses. It supports product and customer management, GST billing, stock tracking, credit payments, expenses, invoices, CSV exports, backups, and mobile billing.** built with ** Python 3
+Python Standard Library HTTP server
+REST API architecture
+HTML, CSS, and JavaScript
+JSON-based local data storage
+QR code generation
+SSL/TLS support
+PyInstaller for Windows desktop packaging **. 
+This project showcases my skills in 
+** Full-stack application development (vibe codeing)
+Inventory and financial transaction processing
+Secure authentication and PIN-based access
+Responsive desktop and mobile UI design
+REST API design and validation
+Atomic file storage, backups, and data recovery
+Decimal-based financial calculations
+Windows application packaging and deployment **. 
+You can check out the repository [here]([project_2_repository_link](https://github.com/mcschandra/Stockbill)).
 
 ## Get in Touch 📬
 
