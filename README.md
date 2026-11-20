@@ -29,26 +29,46 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 **Whatsapp-BulkMessage-Automation** is a **automated messaging tool to send customized reminder messages to customers via whatsapp web** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **write Python scripts, automation and excel formulas**. You can check out the repository [here](https://github.com/mcschandra/Mini-Projects.git).
 
-### StockBill([project_2_link](https://github.com/mcschandra/Stockbill))
+### StockBill
 
-**StockBill** is a ** full-stack inventory and billing application for small retail businesses. It supports product and customer management, GST billing, stock tracking, credit payments, expenses, invoices, CSV exports, backups, and mobile billing.** built with ** Python 3
-Python Standard Library HTTP server
-REST API architecture
-HTML, CSS, and JavaScript
-JSON-based local data storage
-QR code generation
-SSL/TLS support
-PyInstaller for Windows desktop packaging **. 
-This project showcases my skills in 
-** Full-stack application development (vibe codeing)
-Inventory and financial transaction processing
-Secure authentication and PIN-based access
-Responsive desktop and mobile UI design
-REST API design and validation
-Atomic file storage, backups, and data recovery
-Decimal-based financial calculations
-Windows application packaging and deployment **. 
-You can check out the repository [here]([project_2_repository_link](https://github.com/mcschandra/Stockbill)).
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcschandra/Stockbill)
+
+> A full-stack inventory and billing application designed for small retail businesses.
+
+StockBill brings products, customers, GST billing, stock, credit payments, expenses, invoices, exports, backups, and mobile billing into one responsive application.
+
+#### Core Features
+
+- 🧾 GST invoicing and credit payment tracking
+- 📦 Product, customer, and inventory management
+- 💰 Expense tracking with CSV exports
+- 🔐 PIN-based secure authentication
+- 📱 Responsive desktop and mobile billing UI
+- 💾 JSON storage, atomic updates, backups, and data recovery
+- 🖨️ QR code generation and Windows desktop packaging
+
+#### Tech Stack
+
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square)
+
+<details>
+<summary><strong>What this project demonstrates</strong></summary>
+
+- Full-stack application development
+- Inventory and financial transaction processing
+- Secure authentication and PIN-based access
+- Responsive desktop and mobile UI design
+- REST API design and validation
+- Atomic file storage, backups, and data recovery
+- Decimal-based financial calculations
+- Windows application packaging and deployment
+
+</details>
 
 ## Get in Touch 📬
 
