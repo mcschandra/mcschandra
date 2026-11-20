@@ -25,9 +25,37 @@ I'm a passionate **Devops and Cloud Engineer** with experience in **AWS, Azure, 
 
 ## Featured Projects 💻
 
-### Whatsapp-BulkMessage-Automation([Project_Repo](https://github.com/mcschandra/Mini-Projects.git))
+### Whatsapp-BulkMessage-Automation
 
-**Whatsapp-BulkMessage-Automation** is a **automated messaging tool to send customized reminder messages to customers via whatsapp web** built with **Python, playwright, openpyXL**. This project demonstrates my ability to **write Python scripts, automation and excel formulas**. You can check out the repository [here](https://github.com/mcschandra/Mini-Projects.git).
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcschandra/Mini-Projects.git)
+
+> An automated WhatsApp messaging tool for sending customized customer reminders through WhatsApp Web.
+
+Whatsapp-BulkMessage-Automation demonstrates Python scripting, browser automation, and Excel-based message customization for streamlined customer communication.
+
+#### Core Features
+
+- 💬 Automated WhatsApp reminder messages
+- ✉️ Customized customer messaging
+- 📊 Excel formulas and spreadsheet data handling
+- 🌐 Browser automation through WhatsApp Web
+- 🤖 Reusable automated messaging workflow
+
+#### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+<details>
+<summary><strong>What this project demonstrates</strong></summary>
+
+- Python automation scripting
+- Browser automation with Playwright
+- Excel data processing and formulas
+- Automated customer communication workflows
+
+</details>
 
 ### StockBill
 
