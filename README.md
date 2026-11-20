@@ -100,8 +100,8 @@ StockBill brings products, customers, GST billing, stock, credit payments, expen
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]** https://www.mcschandra.github.io/mcschandra
-- **[LinkedIn]** https://www.linkedin.com/in/chandra-sekhar-mupparaju
+- **https://www.mcschandra.github.io/mcschandra**
+- **https://www.linkedin.com/in/chandra-sekhar-mupparaju**
 
 
 
